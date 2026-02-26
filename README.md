@@ -1,3 +1,4 @@
+🚀 Cloud-Native Mobile Backend Platform
 A production-ready, cloud-native mobile application platform built with scalable architecture, clean code principles, and enterprise-grade DevOps practices.
 
 This project delivers a high-performance backend API, a cross-platform mobile application, and a fully containerized AWS deployment pipeline.
